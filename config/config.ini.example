@@ -1,0 +1,16 @@
+[DATABASE]
+    host=
+    database=
+    user=
+    password=
+
+[CONSULT_CONFIGURATION]
+    url=
+    ; Time in seconds. For milliseconds use comma instead of period. E.g. 1 millisecond -> 0,001 seconds
+    website_response_timeout=
+    ; Time in seconds. for milliseconds use period instead of comma. E.g. 1 millisecond -> 0.001 seconds
+    consult_period=
+    default_value_to_save=
+
+[LOGGER]
+    logger_path=
